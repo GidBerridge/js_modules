@@ -11,12 +11,12 @@ console.log('Importing module');
 // console.log(price, tq);
 
 
-import add, { cart } from "./shoppingCart.js";
-add('pizza', 5);
-add('bread', 2);
-add('apples', 1);
+// import add, { cart } from "./shoppingCart.js";
+// add('pizza', 5);
+// add('bread', 2);
+// add('apples', 1);
 
-console.log(cart);
+// console.log(cart);
 
 // console.log('Start fetching');
 // const res = await fetch('https://jsonplaceholder.typicode.com/posts')
